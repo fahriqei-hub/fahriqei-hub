@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/_EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://github.com/fahriqei-hub" target="_blank">
-      <img src="https://img.shields.io/badge/_GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </p>
 
