@@ -30,7 +30,6 @@
 ### Experience & Leadership
 
 - **Asisten Laboratorium** (2025 – 2027)
-- **Wakil Ketua Badan Eksekutif Mahasiswa (BEM) Fakultas Teknik** (2026)
 - **Divisi Creative Himpunan Mahasiswa Jurusan Informatika** (2025)
 - **Kepelatihan UKM Badminton UNLA** (2025 – 2026 & 2026 – 2027)
 - **Participant**, Program Kreativitas Mahasiswa - Karsa Cipta (PKM-KC) (2026)
