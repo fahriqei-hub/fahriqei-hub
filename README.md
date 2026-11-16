@@ -6,10 +6,10 @@
 
   <p align="center">
     <a href="mailto:fahriqeizals@gmail.com">
-      <img src="https://img.shields.io/badge/📧_EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/_EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://github.com/fahriqei-hub" target="_blank">
-      <img src="https://img.shields.io/badge/🐙_GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/_GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
   </p>
 
@@ -17,21 +17,23 @@
 
 ---
 
-### 📌 About Me
+### About Me
 
-- 🎓 **5th-semester Informatics Engineering** undergraduate student at **Universitas Langlangbuana**.
-- 💻 **Experienced in end-to-end Fullstack Web Development**—from database architecture & RESTful APIs to responsive user interfaces.
-- 🚀 **Passionate about modern web ecosystems**, clean software architecture, and continuous learning.
-- 📧 Reach me directly at **fahriqeizals@gmail.com**
+- **5th-semester Informatics Engineering** undergraduate student at **Universitas Langlangbuana**.
+- **Experienced in end-to-end Fullstack Web Development**—from database architecture & RESTful APIs to responsive user interfaces.
+- **Passionate about modern web ecosystems**, clean software architecture, and continuous learning.
+- Reach me directly at **fahriqeizals@gmail.com**
+
 
 ---
 
-### 💼 Experience & Leadership
+### Experience & Leadership
 
-- 🔬 **Asisten Laboratorium** (2025 – 2027)
-- 🏛️ **Wakil Ketua Badan Eksekutif Mahasiswa (BEM) Fakultas Teknik** (2026)
-- 🎨 **Divisi Creative Himpunan Mahasiswa Jurusan Informatika** (2025)
-- 🏸 **Kepelatihan UKM Badminton UNLA** (2025 – 2026 & 2026 – 2027)
+- **Asisten Laboratorium** (2025 – 2027)
+- **Wakil Ketua Badan Eksekutif Mahasiswa (BEM) Fakultas Teknik** (2026)
+- **Divisi Creative Himpunan Mahasiswa Jurusan Informatika** (2025)
+- **Kepelatihan UKM Badminton UNLA** (2025 – 2026 & 2026 – 2027)
+- **Participant**, Program Kreativitas Mahasiswa - Karsa Cipta (PKM-KC)
 
 ---
 
@@ -76,15 +78,15 @@
 
 ---
 
-### 📂 Featured Project
+### Featured Project
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Salabintana Wedding Organizer](https://github.com/fahriqei-hub)** | Web application for managing wedding organizer services, customer galleries, and booking records. | Laravel 11, Tailwind CSS, MySQL |
+| **[Salabintana Wedding Decoration](https://github.com/fahriqei-hub)** | Web application for managing wedding organizer services, customer galleries, and booking records. | Laravel 11, Tailwind CSS, MySQL |
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22)](https://github.com/fahriqei-hub)
 
