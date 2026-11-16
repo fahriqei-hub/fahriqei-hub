@@ -84,14 +84,24 @@
 | :--- | :--- | :--- |
 | **[Salabintana Wedding Decoration](https://github.com/fahriqei-hub)** | Web application for managing wedding organizer services, customer galleries, and booking records. | Laravel 11, Tailwind CSS, MySQL |
 
+
 ---
 
 ### GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22)](https://github.com/fahriqei-hub)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22)](https://github.com/fahriqei-hub)
+  <a href="https://github.com/fahriqei-hub">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
 
-<p align="center">
+  <a href="https://github.com/fahriqei-hub">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&cache_seconds=1800" alt="Top Languages" />
+  </a>
+
+  <br><br>
+
   <img src="https://komarev.com/ghpvc/?username=fahriqei-hub&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+
+</div>
+
