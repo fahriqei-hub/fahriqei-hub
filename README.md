@@ -78,12 +78,15 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" width="48%" />
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=fahriqei-hub&style=flat-square&color=blue" alt="Profile Views" />
-  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" width="100%" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" width="100%" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=fahriqei-hub&style=flat-square&color=blue" alt="Profile Views" />
+
 </div>
