@@ -26,6 +26,15 @@
 
 ---
 
+### 💼 Experience & Leadership
+
+- 🔬 **Asisten Laboratorium** (2025 – 2027)
+- 🏛️ **Wakil Ketua Badan Eksekutif Mahasiswa (BEM) Fakultas Teknik** (2026)
+- 🎨 **Divisi Creative Himpunan Mahasiswa Jurusan Informatika** (2025)
+- 🏸 **Kepelatihan UKM Badminton UNLA** (2025 – 2026 & 2026 – 2027)
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -60,7 +69,7 @@
   <p>
     <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.id/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </p>
 
 </div>
@@ -77,16 +86,10 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22)](https://github.com/fahriqei-hub)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" width="100%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22)](https://github.com/fahriqei-hub)
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" width="100%" />
-
-  <br><br>
-
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahriqei-hub&style=flat-square&color=blue" alt="Profile Views" />
-
-</div>
+</p>
