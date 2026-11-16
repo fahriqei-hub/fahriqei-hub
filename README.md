@@ -19,7 +19,7 @@
 
 ### About Me
 
-- **5th-semester Informatics Engineering** undergraduate student at **Universitas Langlangbuana**.
+- **Informatics Engineering** student at **Universitas Langlangbuana**.
 - **Experienced in end-to-end Fullstack Web Development**—from database architecture & RESTful APIs to responsive user interfaces.
 - **Passionate about modern web ecosystems**, clean software architecture, and continuous learning.
 - Reach me directly at **fahriqeizals@gmail.com**
@@ -33,7 +33,7 @@
 - **Wakil Ketua Badan Eksekutif Mahasiswa (BEM) Fakultas Teknik** (2026)
 - **Divisi Creative Himpunan Mahasiswa Jurusan Informatika** (2025)
 - **Kepelatihan UKM Badminton UNLA** (2025 – 2026 & 2026 – 2027)
-- **Participant**, Program Kreativitas Mahasiswa - Karsa Cipta (PKM-KC)
+- **Participant**, Program Kreativitas Mahasiswa - Karsa Cipta (PKM-KC) (2026)
 
 ---
 
