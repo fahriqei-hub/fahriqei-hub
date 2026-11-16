@@ -1,104 +1,124 @@
-<div align="center">
+ <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Fahri%20Qeizal%20Sabil&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Student&descSize=14&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,40&height=180&section=header&text=Fahri%20Qeizal%20Sabil&fontSize=35&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Student&descSize=14&descAlignY=62" width="100%" />
 
-  <h3>Full-Stack Web Developer</h3>
+### Building Ideas Into Digital Experiences
 
-  <p align="center">
-    <a href="mailto:fahriqeizals@gmail.com">
-      <img src="https://img.shields.io/badge/_EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://github.com/fahriqei-hub" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
+<p>
+  <a href="mailto:fahriqeizals@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/fahriqei-hub">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### About Me
+## Introduction
 
-- **Informatics Engineering** student at **Universitas Langlangbuana**.
-- **Experienced in end-to-end Fullstack Web Development**—from database architecture & RESTful APIs to responsive user interfaces.
-- **Passionate about modern web ecosystems**, clean software architecture, and continuous learning.
-- Reach me directly at **fahriqeizals@gmail.com**
+I'm an **Informatics Engineering student** at **Universitas Langlangbuana**, interested in building functional, efficient, and user-friendly web applications.
 
+My interests include:
 
----
+- Fullstack Web Development and RESTful API integration.
+- Database architecture and application development.
+- Modern web technologies and software architecture.
+- Continuous learning and exploring new technologies.
 
-### Experience & Leadership
-
-- **Asisten Laboratorium** (2025 – 2027)
-- **Divisi Creative Himpunan Mahasiswa Jurusan Informatika** (2025)
-- **Kepelatihan UKM Badminton UNLA** (2025 – 2026 & 2026 – 2027)
-- **Participant**, Program Kreativitas Mahasiswa - Karsa Cipta (PKM-KC) (2026)
+**Contact:** fahriqeizals@gmail.com
 
 ---
 
-### Tech Stack & Tools
+## Experience & Activities
+
+| Period | Organization / Activity | Position |
+|:---|:---|:---|
+| 2025 – 2027 | Laboratory Informatics | Laboratory Assistant |
+| 2025 | HMJ Informatika | Creative Division |
+| 2025 – 2026 & 2026 – 2027 | UKM Badminton UNLA | Coaching Division |
+| 2026 | PKM-KC | Participant |
+
+---
+
+## Technologies & Tools
 
 <div align="center">
 
-  <h4>Languages</h4>
-  <p>
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </p>
+**PROGRAMMING LANGUAGES**
 
-  <h4>Frontend Development</h4>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  </p>
+<img src="https://skillicons.dev/icons?i=cpp,java,php,python,js,ts&theme=dark" />
 
-  <h4>Backend & Databases</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-    <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </p>
+<br><br>
 
-  <h4>Tools</h4>
-  <p>
-    <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.id/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </p>
+**FRONTEND DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react&theme=dark" />
+
+<br><br>
+
+**BACKEND & DATABASE**
+
+<img src="https://skillicons.dev/icons?i=laravel,codeigniter,mysql&theme=dark" />
+
+<br><br>
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
 </div>
 
 ---
 
-### Featured Project
+## Featured Project
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Salabintana Wedding Decoration](https://github.com/fahriqei-hub)** | Web application for managing wedding organizer services, customer galleries, and booking records. | Laravel 11, Tailwind CSS, MySQL |
+<table>
+<tr>
+<td width="100%">
+
+### Salabintana Wedding Decoration
+
+Web application for managing wedding organizer services, customer galleries, and booking records.
+
+**Technology Stack**
+
+`Laravel 11` `Tailwind CSS` `MySQL`
+
+[View Project on GitHub](https://github.com/fahriqei-hub)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### GitHub Analytics
+## GitHub Overview
 
 <div align="center">
 
-  <a href="https://github.com/fahriqei-hub">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
-  </a>
+<a href="https://github.com/fahriqei-hub">
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=fahriqei-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Statistics" />
+</a>
 
-  <a href="https://github.com/fahriqei-hub">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" alt="Top Languages" />
-  </a>
+<a href="https://github.com/fahriqei-hub">
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fahriqei-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages" />
+</a>
 
-  <br><br>
+<br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=fahriqei-hub&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=fahriqei-hub&style=for-the-badge&color=blueviolet&label=PROFILE+VISITORS" alt="Profile Visitors" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for Visiting!
+
+*Always learning, building, and improving.*
 
 </div>
